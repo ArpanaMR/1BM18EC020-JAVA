@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main
+class QMain
 {
 public static void main(String args[])
 { 
